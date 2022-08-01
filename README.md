@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @EstefaniaRios
+- 👀 I’m interested in QA testing, SQL and Automation.
+- 🌱 I’m currently learning Selenium.
+- 📫 How to reach me: stefanidelmas@gmail.com
